@@ -6,7 +6,7 @@
 
 
 
-![cadastroOng](https://user-images.githubusercontent.com/53630208/77720012-74f9f480-6fc5-11ea-834a-ef59d80c989b.png)
+![cadastroOng width: 50px;](https://user-images.githubusercontent.com/53630208/77720012-74f9f480-6fc5-11ea-834a-ef59d80c989b.png)
 ![Captura de tela_2020-03-26_23-37-55](https://user-images.githubusercontent.com/53630208/77720016-762b2180-6fc5-11ea-8b58-13fcf2a7c9a4.png)
 ![Captura de tela_2020-03-26_23-39-06](https://user-images.githubusercontent.com/53630208/77720017-76c3b800-6fc5-11ea-86a3-53e70f00b644.png)
 ![Captura de tela_2020-03-26_23-40-00](https://user-images.githubusercontent.com/53630208/77720019-76c3b800-6fc5-11ea-8070-538b084c3924.png)
