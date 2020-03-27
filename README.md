@@ -1,12 +1,12 @@
 # Be The Hero
 O **app** tem um sistema de cadastro de ongs na parte web, cada ong pode cadastrar um caso
 
-No aplicativo mobile qualquer um pode ver o caso que a ong cadastrou e entrar em contato via email ou whatsapp fornecido pela ong na hora do cadastro
+No aplicativo **mobile** qualquer um pode ver o caso que a ong cadastrou e entrar em contato via email ou whatsapp fornecido pela ong na hora do cadastro
 
 
 # BackEnd, FrontEnd e Mobile
 
-O **FrontEnd** e o **Mobile** se comunicam através da api feita em **nodejs**. O usuário cria a sua ONG com o App Web e acessa os casos pelo mobile podendo entrar em contato com a **ONG** via E-mail ou **WhatsApp**.
+O **FrontEnd** e o **Mobile** se comunicam através da api feita em **nodejs**. O usuário cria a sua ONG com o App Web e acessa os casos pelo mobile podendo entrar em contato com a **ONG** via **E-mail** ou **WhatsApp**.
 
 **Página de Logon**
 
