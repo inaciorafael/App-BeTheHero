@@ -8,5 +8,10 @@ No aplicativo mobile qualquer um pode ver o caso que a ong cadastrou e entrar em
 
 O **FrontEnd** e o **Mobile** se comunicam através da api feita em **nodejs**. O usuário cria a sua ONG com o App Web e acessa os casos pelo mobile podendo entrar em contato com a **ONG** via E-mail ou **WhatsApp**.
 
-Página de Logon
-![enter image description here](https://github.com/inacio0196/App-BeTheHero/blob/master/Captura%20de%20tela_2020-03-26_23-39-06.png) 
+**Página de Logon**
+
+![enter image description here](https://github.com/inacio0196/App-BeTheHero/blob/master/Captura%20de%20tela_2020-03-26_23-39-06.png)
+
+## Aplicativo Mobile
+
+![enter image description here](https://github.com/inacio0196/App-BeTheHero/blob/master/GitHub.gif)
