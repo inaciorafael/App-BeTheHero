@@ -17,4 +17,5 @@
 <img src="https://github.com/inacio0196/App-BeTheHero/blob/master/GitHub.gif" width=100% height=85% />
 
 <img src="https://github.com/inacio0196/App-BeTheHero/blob/master/Screenshot_2020-03-26-23-28-39-776_com.mobile.jpg" width=20% height=30% />
-
+<img src="https://github.com/inacio0196/App-BeTheHero/blob/master/Screenshot_2020-03-26-23-28-51-894_com.mobile.jpg" width=20% height=30% />
+<img src="https://github.com/inacio0196/App-BeTheHero/blob/master/Screenshot_2020-03-26-23-45-42-558_com.mobile.jpg" width=20% height=30% />
