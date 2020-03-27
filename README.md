@@ -14,5 +14,5 @@
 <img src="https://github.com/inacio0196/App-BeTheHero/blob/master/Captura%20de%20tela_2020-03-27_00-03-52.png" width=70% height=50% />
 
 <h2>App mobile</h2>
-<img src="https://github.com/inacio0196/App-BeTheHero/blob/master/GitHub.gif" width=70% height=70% />
+<img src="https://github.com/inacio0196/App-BeTheHero/blob/master/GitHub.gif" width=100% height=85% />
 
