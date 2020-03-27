@@ -15,3 +15,13 @@ O **FrontEnd** e o **Mobile** se comunicam através da api feita em **nodejs**. 
 ## Aplicativo Mobile
 
 ![enter image description here](https://github.com/inacio0196/App-BeTheHero/blob/master/GitHub.gif)
+
+## Para rodar o projeto
+
+Após instalar o **mobile** no dispositivo físico.
+dentro de cada pasta execute o comando:
+na ordem correta, **backend, frontend, mobile**.
+
+    npm install ou yarn 
+
+    npm start ou yarn start 
