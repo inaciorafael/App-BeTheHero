@@ -16,5 +16,5 @@
 <h2>App mobile</h2>
 <img src="https://github.com/inacio0196/App-BeTheHero/blob/master/GitHub.gif" width=100% height=85% />
 
-<img src="https://github.com/inacio0196/App-BeTheHero/blob/master/Screenshot_2020-03-26-23-28-39-776_com.mobile.jpg" width=50% height=80% />
+<img src="https://github.com/inacio0196/App-BeTheHero/blob/master/Screenshot_2020-03-26-23-28-39-776_com.mobile.jpg" width=45% height=60% />
 
