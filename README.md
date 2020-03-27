@@ -1,21 +1,12 @@
-# App-BeTheHero
+# Be The Hero
+O **app** tem um sistema de cadastro de ongs na parte web, cada ong pode cadastrar um caso
 
-<h1>Be The Hero</h1>
+No aplicativo mobile qualquer um pode ver o caso que a ong cadastrou e entrar em contato via email ou whatsapp fornecido pela ong na hora do cadastro
 
-<p>O app tem um sistema de cadastro de ongs na parte web, cada ong pode cadastrar um caso</>
-<p>No aplicativo mobile qualquer um pode ver o caso que a ong cadastrou e entrar em contato via email ou whatsapp fornecido pela ong na hora do cadastro</p>
 
-<h2>App feito na semana Omni Stack 11 da Rockeseat, back-end, front-end e mobile</h2>
-<img src="https://github.com/inacio0196/App-BeTheHero/blob/master/Captura%20de%20tela_2020-03-26_23-37-55.png" width=80% height=80% /> 
-<img src="https://github.com/inacio0196/App-BeTheHero/blob/master/Captura%20de%20tela_2020-03-26_23-39-06.png" width=70% height=50% />
-<img src="https://github.com/inacio0196/App-BeTheHero/blob/master/Captura%20de%20tela_2020-03-26_23-40-00.png" width=70% height=50% />
+# BackEnd, FrontEnd e Mobile
 
-<h2>Dashboard</h2>
-<img src="https://github.com/inacio0196/App-BeTheHero/blob/master/Captura%20de%20tela_2020-03-27_00-03-52.png" width=70% height=50% />
+O **FrontEnd** e o **Mobile** se comunicam através da api feita em **nodejs**. O usuário cria a sua ONG com o App Web e acessa os casos pelo mobile podendo entrar em contato com a **ONG** via E-mail ou **WhatsApp**.
 
-<h2>App mobile</h2>
-<img src="https://github.com/inacio0196/App-BeTheHero/blob/master/GitHub.gif" width=100% height=85% />
-
-<img src="https://github.com/inacio0196/App-BeTheHero/blob/master/Screenshot_2020-03-26-23-28-39-776_com.mobile.jpg" width=20% height=30% />
-<img src="https://github.com/inacio0196/App-BeTheHero/blob/master/Screenshot_2020-03-26-23-28-51-894_com.mobile.jpg" width=20% height=30% />
-<img src="https://github.com/inacio0196/App-BeTheHero/blob/master/Screenshot_2020-03-26-23-45-42-558_com.mobile.jpg" width=20% height=30% />
+Página de Logon
+![enter image description here](https://github.com/inacio0196/App-BeTheHero/blob/master/Captura%20de%20tela_2020-03-26_23-39-06.png) 
