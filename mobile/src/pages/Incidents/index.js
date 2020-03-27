@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { View, FlatList, Text, Image, SafeAreaView, TouchableOpacity } from 'react-native';
+import { View, FlatList, Text, Image, SafeAreaView, TouchableOpacity, StatusBar } from 'react-native';
 import { useNavigation } from '@react-navigation/native'
 import Icon from 'react-native-vector-icons/Feather';
 
@@ -46,14 +46,18 @@ export default function Incidents() {
 
     return (
         <SafeAreaView style={styles.container}>
+            <StatusBar backgroundColor='transparent' barStyle='dark-content' />
             <View style={styles.header}>
                 <Image source={logoImg} />
                 <Text style={styles.headerText}>
-                    Total de <Text style={styles.headerTextBold}>{total} casos</Text>
+                    Total de <Text style={styles.headerTextBold}>
+                        {total} {total == 1 ?  'caso' : 'casos'}
+                    </Text>
                 </Text>
             </View>
             <Text style={styles.title}>Bem-Vindo!</Text>
-            <Text style={styles.description}>Escolha um dos casos abaixo e salve o dia.</Text>
+
+            <Text style={styles.description}>{total == 0 ? 'Não existem casos :)' : 'Escolha um dos casos abaixo e salve o dia.'}</Text>
 
             <FlatList
                 style={styles.incidentList}
