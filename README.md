@@ -27,8 +27,11 @@ após, execute o comando:
 yarn ou npm i
 
 dentro de cada pasta execute o comando:
-na ordem correta, **backend, frontend, mobile**.
+
 
     npm install ou yarn 
 
     npm start ou yarn start 
+
+
+na ordem correta, **backend, frontend, mobile**.
