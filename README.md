@@ -18,7 +18,14 @@ O **FrontEnd** e o **Mobile** se comunicam através da api feita em **nodejs**. 
 
 ## Para rodar o projeto
 
-Após instalar o **mobile** no dispositivo físico.
+Após instalar o **mobile** no dispositivo físico, com o comando: 
+
+react-native run-android/ios
+
+após, execute o comando: 
+
+yarn ou npm i
+
 dentro de cada pasta execute o comando:
 na ordem correta, **backend, frontend, mobile**.
 
