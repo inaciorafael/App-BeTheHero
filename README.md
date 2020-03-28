@@ -24,7 +24,10 @@ react-native run-android/ios
 
 após, execute o comando: 
 
-yarn ou npm i
+    yarn ou npm i
+
+
+
 
 dentro de cada pasta execute o comando:
 
